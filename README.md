@@ -1,4 +1,4 @@
-jquery-mobile-charts
+jquery-mobile-bar-chart
 ====================
 
 This is a jquery mobile charts code using the Slider Widget
