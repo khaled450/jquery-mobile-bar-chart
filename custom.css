@@ -1,0 +1,34 @@
+.ui-slider-custom {
+    margin:0px 5px !important;
+    top:0 !important;
+}
+.ui-slider-custom-blue div {
+    background:#38C !important;
+}
+.ui-slider-custom-green div {
+    background:#33CC45 !important;
+}
+.ui-slider-custom-orange div {
+    background:#EB701F !important;
+}
+.ui-slider-custom-sky div {
+    background:#33CCC6 !important;
+}
+.ui-slider-custom-red div {
+    background:#CC3339 !important;
+}
+.poll-label {
+    margin:0 !important;
+    font-size:12px !important;
+    font-style:italic;
+}
+.poll-fieldset {
+    margin-bottom: 7px !important;
+}
+.poll-fieldset a {
+    font-weight: 300 !important;
+    font-size: 9px !important;
+    line-height: 25px !important;
+    height: 24px !important;
+    margin-top: -14px !important;
+}
